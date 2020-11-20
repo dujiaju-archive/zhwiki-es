@@ -1,0 +1,5 @@
+wiki
+*.bz2
+.vscode/
+text/
+es/
